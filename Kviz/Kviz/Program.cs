@@ -9,6 +9,8 @@ namespace Kviz
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Build Prolazi!!");
+            Console.ReadLine();
         }
     }
 }
