@@ -1,0 +1,6 @@
+C:\Users\nikol\Desktop\oop-projekti\kviz\Kviz\Kviz\bin\Debug\Kviz.exe
+C:\Users\nikol\Desktop\oop-projekti\kviz\Kviz\Kviz\bin\Debug\Kviz.pdb
+C:\Users\nikol\Desktop\oop-projekti\kviz\Kviz\Kviz\obj\x86\Debug\Kviz.csproj.AssemblyReference.cache
+C:\Users\nikol\Desktop\oop-projekti\kviz\Kviz\Kviz\obj\x86\Debug\Kviz.csproj.CoreCompileInputs.cache
+C:\Users\nikol\Desktop\oop-projekti\kviz\Kviz\Kviz\obj\x86\Debug\Kviz.exe
+C:\Users\nikol\Desktop\oop-projekti\kviz\Kviz\Kviz\obj\x86\Debug\Kviz.pdb
