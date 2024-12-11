@@ -99,6 +99,18 @@ namespace Kviz
 
             return nasumicnaPitanja;
         }
+        public string IzlistajPitanja() {
+            if (Pitanja == null)
+            {
+                return "Nema dostupnih pitanja.";
+            }
+            StringBuilder rezultat = new StringBuilder();
+            foreach (Pitanje pitanje in Pitanja) {
+                rezultat.AppendLine($"{pitanje.Id},{pitanje.TekstPitanja}");
+            }
+            return rezultat.ToString().TrimEnd();
+        
+        }
 
     }
 }
