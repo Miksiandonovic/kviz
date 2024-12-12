@@ -23,6 +23,15 @@ namespace Kviz
             }
             return b;
         }
-
+        public static void SacuvajPitanja(BankaPitanja banka){
+            List<String>LinijeZaFajl = new List<String>();
+            foreach (Pitanje pitanje in banka.Pitanja){
+                string line = pitanje.TekstPitanja+","+pitanje.TacanOdgovor+","+pitanje.NetacniOdgovori[0]+","+pitanje.NetacniOdgovori[1]+","+pitanje.NetacniOdgovori[2]+","+pitanje.BrojBodova;
+                LinijeZaFajl.Add(line);
+            
+            }
+            File.WriteAllLines(FilePath,LinijeZaFajl);
+        
+        }
     }
 }
