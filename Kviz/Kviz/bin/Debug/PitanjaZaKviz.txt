@@ -1,0 +1,48 @@
+Koja je prestonica Srbije?, Beograd, Novi Sad, Niš, Kragujevac, 1
+Koliko kontinenata ima na svetu?, 7, 5, 6, 8, 1
+Koja je najduža reka na svetu?, Nil, Dunav, Amazon, Mekong, 2
+Koji je najveći okean na svetu?, Tihi okean, Atlantski okean, Indijski okean, Severni ledeni okean, 2
+Koja je najmanja planeta Sunčevog sistema?, Merkur, Mars, Venera, Pluton, 1
+Koja zemlja ima najviše stanovnika?, Kina, Indija, SAD, Rusija, 2
+Koliko igrača ima fudbalski tim?, 11, 10, 12, 13, 1
+Koji je najveći sisar na svetu?, Plavi kit, Slon, Nosorog, Medved, 3
+Koji je glavni grad Francuske?, Pariz, Lion, Marsej, Nica, 1
+Koji gas biljke koriste za fotosintezu?, Ugljen-dioksid, Kiseonik, Vodonik, Azot, 3
+Koja je najviša planina na svetu?, Mont Everest, K2, Kilimandžaro, Denali, 3
+Koji je najbrži kopneni sisar?, Gepard, Lav, Gazela, Antilopa, 2
+Koji je simbol za zlatni element?, Au, Ag, Fe, Zn, 2
+Koji instrument ima ključeve i tipke?, Klavir, Gitara, Violina, Truba, 1
+Koje je boje rubin?, Crvena, Zelena, Plava, Žuta, 2
+Koja je najbliža planeta Suncu?, Merkur, Venera, Zemlja, Mars, 1
+Koji je najčešći element u svemiru?, Vodonik, Helijum, Kiseonik, Azot, 3
+Koji je glavni grad Italije?, Rim, Milano, Napulj, Firenca, 1
+Koji sport koristi palicu i loptu?, Bejzbol, Ragbi, Fudbal, Hokej, 2
+Koji organ filtrira krv u ljudskom telu?, Bubreg, Srce, Jetra, Pluća, 3
+Koji je glavni grad Španije?, Madrid, Barselona, Sevilja, Valensija, 1
+Koji dinosaur je poznat kao "kralj dinosaura"?, Tiranosaurus, Velociraptor, Triceratops, Stegosaurus, 3
+Koji je glavni grad Nemačke?, Berlin, Minhen, Frankfurt, Hamburg, 1
+Koji metal se koristi za pravljenje aluminijuma?, Boksit, Gvožđe, Cink, Kalaj, 3
+Koji je broj π približno jednak?, 3.14, 3.15, 3.16, 3.17, 2
+Koji je glavni grad Rusije?, Moskva, Sankt Peterburg, Soči, Kazan, 1
+Koji je glavni sastojak pice?, Brašno, Mleko, Pirinač, Maslac, 1
+Koji sport koristi reket i lopticu?, Tenis, Košarka, Fudbal, Odbojka, 1
+Koji je glavni grad Engleske?, London, Edinburg, Kardif, Belfast, 1
+Koji je glavni grad Japana?, Tokio, Osaka, Kjoto, Jokohama, 1
+Koja životinja proizvodi mleko?, Krava, Pčela, Riba, Pas, 1
+Koji gas je ključan za disanje?, Kiseonik, Azot, Helijum, Vodonik, 1
+Koji organ pumpa krv?, Srce, Jetra, Pluća, Mozak, 1
+Koji je simbol za srebrni element?, Ag, Au, Fe, Cu, 2
+Koji je glavni grad Kanade?, Otava, Toronto, Vankuver, Montreal, 1
+Koji je glavni grad Australije?, Kanbera, Sidnej, Melburn, Pert, 1
+Koji je najduži zid na svetu?, Kineski zid, Berlinski zid, Hadrijanov zid, Zid plača, 2
+Koji organ je odgovoran za varenje?, Želudac, Jetra, Srce, Pluća, 2
+Koji je simbol za vodonik?, H, He, Ho, Hu, 1
+Koji je glavni grad Grčke?, Atina, Solun, Patra, Heraklion, 1
+Koji gas je poznat kao "plemeniti gas"?, Helijum, Azot, Kiseonik, Vodonik, 3
+Koja ptica ne može da leti?, Pingvin, Galeb, Orao, Soko, 2
+Koji je glavni grad Kine?, Peking, Šangaj, Hong Kong, Makao, 1
+Koja je najduža reka u Evropi?, Volga, Dunav, Rajna, Sena, 2
+Koji sport koristi kuglu i čunjeve?, Kuglanje, Bejzbol, Ragbi, Kriket, 2
+Koji je simbol za element ugljenik?, C, Cu, Co, Ca, 1
+Koji je glavni grad Brazila?, Brazilija, Rio de Žaneiro, Sao Paulo, Fortaleza, 1
+Koji je najpoznatiji sat u Londonu?, Big Ben, Tower Clock, St. Paul, Greenwich, 2
