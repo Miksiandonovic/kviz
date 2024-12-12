@@ -6,3 +6,5 @@ C:\Users\nikol\Desktop\oop-projekti\kviz\Kviz\Kviz\obj\x86\Debug\Kviz.exe
 C:\Users\nikol\Desktop\oop-projekti\kviz\Kviz\Kviz\obj\x86\Debug\Kviz.pdb
 C:\Users\Ucenik-IK5-07\Grigorije\kviz\Kviz\Kviz\obj\x86\Debug\Kviz.exe
 C:\Users\Ucenik-IK5-07\Grigorije\kviz\Kviz\Kviz\obj\x86\Debug\Kviz.pdb
+C:\Users\Ucenik-IK5-05\Documents\Mihailo Andonovic\kviz\Kviz\Kviz\obj\x86\Debug\Kviz.exe
+C:\Users\Ucenik-IK5-05\Documents\Mihailo Andonovic\kviz\Kviz\Kviz\obj\x86\Debug\Kviz.pdb
