@@ -79,7 +79,7 @@ namespace Kviz
         public override string ToString()
         {
             
-            return ID.ToString() + "," + TekstPitanja.ToString() + "," + TacanOdgovor.ToString() + "," + this.NetacniOdgovori[0].ToString() + "," + this.NetacniOdgovori[1].ToString() + "," + this.NetacniOdgovori[2].ToString();
+            return ID.ToString() + "," + TekstPitanja.ToString() + "," + TacanOdgovor.ToString() + "," + this.NetacniOdgovori[0].ToString() + "," + this.NetacniOdgovori[1].ToString() + "," + this.NetacniOdgovori[2].ToString() + "," + BrojBodova;
         }
         public int Provera(string odgovor)
         {
