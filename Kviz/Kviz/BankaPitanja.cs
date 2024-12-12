@@ -18,12 +18,12 @@ namespace Kviz
         }
         public int maxID()
         {
-            int a = Pitanja[0].Id;
+            int a = Pitanja[0].ID;
             for (int i = 1; i < Pitanja.Count; i++)
             {
-                if (Pitanja[i].Id > a)
+                if (Pitanja[i].ID > a)
                 {
-                    a = Pitanja[i].Id;
+                    a = Pitanja[i].ID;
                 }
             }
             return a;
@@ -32,11 +32,11 @@ namespace Kviz
         {
             if (Pitanja == null || Pitanja.Count()==0)
             {
-                Question.Id = 1;
+                Question.ID = 1;
             }
             else
             {
-                 Question.Id = maxID()+1;
+                 Question.ID = maxID()+1;
             }
             Pitanja.Add(Question);
         }
@@ -44,7 +44,7 @@ namespace Kviz
         {
             for (int i = 0; i < Pitanja.Count; i++)
             {
-                if (ID == Pitanja[i].Id)
+                if (ID == Pitanja[i].ID)
                 {
                     return true;
                 }
