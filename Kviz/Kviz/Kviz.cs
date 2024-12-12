@@ -7,5 +7,11 @@ namespace Kviz
 {
     class Kviz
     {
+        public BankaPitanja Banka { get; set; }
+        public Kviz(BankaPitanja banka) {
+            banka = banka;
+        }
+
+
     }
 }
