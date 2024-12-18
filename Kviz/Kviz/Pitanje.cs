@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
 namespace Kviz
 {
 
@@ -48,24 +49,44 @@ namespace Kviz
         {
             // Tacan odgovor uvek na poziciji 1 za sada, tako ste Vi rekli
 
+            List<int> Redosled = new List<int>();
+            Redosled.Add(-1);
+            Redosled.Add(0);    
+            Redosled.Add(1);
+            Redosled.Add(2);
+
+            Random r = new Random();
+            double res;
+
+            for (int i = 0; i < 3; i++)
+            {
+                for (int j = i + 1; j < 4; j++)
+                { res = r.Next(100);
+                    if (res>50)
+                    {
+                        int tmp;
+                        tmp = Redosled[i];
+                        Redosled[i] = Redosled[j];
+                        Redosled[j] = tmp;
+                    }
+                }
+            }
             string sb = "";
 
             sb += this.TekstPitanja;
             sb += "|";
             sb += this.BrojBodova.ToString();
             sb += "\n";
-            sb += "1. ";
-            sb += this.TacanOdgovor;
-            sb += "\n";
-            sb += "2. ";
-            sb += this.NetacniOdgovori[0];
-            sb += "\n";
-            sb += "3. ";
-            sb += this.NetacniOdgovori[1];
-            sb += "\n";
-            sb += "4. ";
-            sb += this.NetacniOdgovori[2];
-            sb += "\n";
+            
+            for (int i = 0;i<4;i++)
+            {
+                sb += (i + 1).ToString() + ". ";
+                if (Redosled[i] == -1)
+                { sb += TacanOdgovor; }
+                else
+                { sb += NetacniOdgovori[Redosled[i]]; }
+                sb += "\n";
+            }
 
 
 
